@@ -1,0 +1,4 @@
+module Main where
+
+main = interact $ const
+  "TIL HAMINGJU MED AFMAELID FORRITUNARKEPPNI FRAMHALDSSKOLANNA!"
